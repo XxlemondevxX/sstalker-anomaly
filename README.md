@@ -5,7 +5,8 @@ But with our version of STALKER ANOMALY, you don't have to worry about that. We'
 
 Here's what you can expect from our version of STALKER ANOMALY:
 
-Easy installation process - no need to mess with DirectX 11.
-High-quality graphics and gameplay, just like the original game.
-Compatibility with a wide range of hardware and operating systems.
+- Easy installation process - no need to mess with DirectX 11.
+- High-quality graphics and gameplay, just like the original game.
+- Compatibility with a wide range of hardware and operating systems.
+
 If you're ready to experience STALKER ANOMALY without the hassle of manually installing DirectX 11, give our version a try. You won't be disappointed!
