@@ -1,0 +1,25 @@
+
+[Version]
+Signature = "$Windows NT$"
+AdvancedINF = 2.0
+
+[SourceDisksNames]
+99 = %DiskName%,"JUN2010_D3DX9_43_x64.cab",0,,-1
+
+[SourceDisksFiles]
+D3DX9_43.dll = 99
+
+[DestinationDirs]
+DefaultDestDir = 11
+
+[DefaultInstall]
+CopyFiles = DirectX_System
+
+[DirectX_System]
+D3DX9_43.dll
+
+[Strings]
+MSFT                 = "Microsoft"
+ExceptionClassDesc   = "DirectX 9.0 JUN2010"
+DiskName             = "DirectX 9.0 JUN2010 cab"
+

@@ -1,0 +1,25 @@
+
+[Version]
+Signature = "$Windows NT$"
+AdvancedINF = 2.0
+
+[SourceDisksNames]
+99 = %DiskName%,"JUN2010_d3dx11_43_x64.cab",0,,-1
+
+[SourceDisksFiles]
+d3dx11_43.dll = 99
+
+[DestinationDirs]
+DefaultDestDir = 11
+
+[DefaultInstall]
+CopyFiles = DirectX_System
+
+[DirectX_System]
+d3dx11_43.dll
+
+[Strings]
+MSFT                 = "Microsoft"
+ExceptionClassDesc   = "DirectX JUN2010"
+DiskName             = "DirectX JUN2010 cab"
+
