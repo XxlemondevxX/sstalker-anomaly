@@ -1,4 +1,4 @@
-#STALKER ANOMALY - No Manual DirectX 11 Installation Required
+# STALKER ANOMALY - No Manual DirectX 11 Installation Required
 If you're a fan of STALKER ANOMALY, you know that installing the game can be a bit of a hassle. One of the biggest headaches is having to manually install DirectX 11, which can be time-consuming and frustrating.
 
 But with our version of STALKER ANOMALY, you don't have to worry about that. We've taken care of the DirectX 11 installation process, so you can jump right into the game without any extra steps.
